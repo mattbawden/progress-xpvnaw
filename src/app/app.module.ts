@@ -19,7 +19,12 @@ const config = {
   };
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule ],
+  imports:      [ 
+    BrowserModule,
+    FormsModule,
+    AngularFireModule.initializeApp(config),
+    AngularFireDatabaseModule
+    ],
   declarations: [ AppComponent, HelloComponent ],
   bootstrap:    [ AppComponent ]
 })
