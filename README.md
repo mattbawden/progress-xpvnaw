@@ -1,3 +1,3 @@
-# angular-xpvnaw
+# progress-xpvnaw
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-xpvnaw)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/progress-xpvnaw)
